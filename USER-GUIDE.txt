@@ -1,0 +1,70 @@
+📸 INSTAGRAM CONTENT DOWNLOADER - USER GUIDE
+==============================================
+
+🚀 QUICK START (3 STEPS)
+------------------------
+1. Run SETUP.bat (first time only)
+2. Double-click DOWNLOAD.bat
+3. Enter username and wait!
+
+📁 WHAT YOU'LL GET
+------------------
+✅ All photos from posts
+✅ All videos and reels
+✅ Carousel posts (multiple images)
+✅ Clean files (no metadata)
+❌ No stories (they expire)
+❌ No private content
+
+🎯 USAGE EXAMPLES
+-----------------
+Easy Mode:
+- Double-click DOWNLOAD.bat
+- Enter: cristiano
+- Files saved to: downloads/cristiano/
+
+Command Line:
+- DOWNLOAD.bat taylorswift
+- DOWNLOAD.bat natgeo my_photos
+- python insta_cli.py username --limit 50
+
+🛠️ FILES EXPLAINED
+-------------------
+SETUP.bat        - Run this first (installs Python packages)
+DOWNLOAD.bat     - Main program (easy to use)
+insta_cli.py     - Advanced command line version
+build_exe.py     - Creates standalone .exe file
+requirements.txt - List of needed Python packages
+README.md        - Detailed documentation
+
+⚠️ IMPORTANT NOTES
+-------------------
+• Only works with PUBLIC Instagram profiles
+• Private profiles need you to follow them first
+• Large profiles take time (be patient!)
+• Respects Instagram's download limits
+• Internet connection required
+
+🔧 TROUBLESHOOTING
+------------------
+"Profile does not exist"
+→ Check spelling, make sure profile is public
+
+"Python not found"
+→ Install Python from python.org
+
+Downloads are slow
+→ Normal! Instagram has limits. Use --limit for fewer posts
+
+"Permission denied"
+→ Run as administrator or choose different folder
+
+📞 NEED HELP?
+-------------
+1. Read the README.md file
+2. Try with a different username
+3. Make sure you have internet
+4. Check if profile is public
+
+🎉 ENJOY YOUR DOWNLOADS!
+========================

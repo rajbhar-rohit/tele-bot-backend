@@ -1,0 +1,244 @@
+PRIVACY POLICY
+Instagram Content Downloader Telegram Bot
+
+Last Updated: November 27, 2024
+
+================================================================================
+
+1. INTRODUCTION
+
+This Privacy Policy explains how the Instagram Content Downloader Telegram Bot 
+("the Bot", "we", "us") collects, uses, and protects information when you use 
+our service. By using this Bot, you agree to the collection and use of 
+information in accordance with this policy.
+
+================================================================================
+
+2. INFORMATION WE COLLECT
+
+2.1 User Information
+- Telegram User ID (automatically provided by Telegram)
+- Telegram Username (if publicly available)
+- Messages sent to the Bot
+- Commands and interactions with the Bot
+
+2.2 Instagram-Related Information
+- Instagram usernames you request to download
+- Public Instagram profile information accessed during downloads
+- Downloaded content metadata (file names, sizes, timestamps)
+
+2.3 Technical Information
+- Bot usage logs (commands used, timestamps, errors)
+- File processing information (download status, file sizes)
+- Performance metrics for service improvement
+
+================================================================================
+
+3. HOW WE USE YOUR INFORMATION
+
+3.1 Primary Purposes
+- Process your download requests for Instagram content
+- Provide Bot functionality and respond to commands
+- Send downloaded files via Telegram
+- Display profile information when requested
+
+3.2 Service Improvement
+- Monitor Bot performance and reliability
+- Debug technical issues and errors
+- Analyze usage patterns to improve features
+- Ensure service stability and security
+
+3.3 Communication
+- Respond to your Bot commands and requests
+- Send status updates during download processes
+- Provide error messages and troubleshooting information
+
+================================================================================
+
+4. INFORMATION SHARING AND DISCLOSURE
+
+4.1 We DO NOT Share Your Information With:
+- Third-party companies for marketing purposes
+- Data brokers or advertising networks
+- Social media platforms (other than necessary API calls)
+- Any unauthorized parties
+
+4.2 We MAY Share Information When:
+- Required by law or legal process
+- Necessary to protect our rights or safety
+- With your explicit consent
+- For technical service providers (hosting, etc.) under strict confidentiality
+
+4.3 Instagram API Usage
+- We access Instagram's public API to retrieve content
+- Only public Instagram profiles and content are accessed
+- We comply with Instagram's Terms of Service and API guidelines
+- No private or restricted content is accessed
+
+================================================================================
+
+5. DATA STORAGE AND SECURITY
+
+5.1 Temporary Storage
+- Downloaded Instagram content is stored temporarily during processing
+- Files are automatically deleted after being sent via Telegram
+- No permanent storage of your downloaded content on our servers
+
+5.2 Log Data
+- Bot interaction logs are kept for up to 30 days for debugging
+- Personal identifiers in logs are anonymized when possible
+- Logs are stored securely and access is restricted
+
+5.3 Security Measures
+- All data transmission is encrypted
+- Server access is restricted and monitored
+- Regular security updates and patches are applied
+- No payment or financial information is collected
+
+================================================================================
+
+6. YOUR RIGHTS AND CHOICES
+
+6.1 Data Access
+- You can request information about data we have collected about you
+- Contact us to review your Bot usage history
+
+6.2 Data Deletion
+- You can request deletion of your data at any time
+- Stop using the Bot to prevent further data collection
+- Block the Bot on Telegram to cease all interactions
+
+6.3 Opt-Out Options
+- Simply stop sending commands to the Bot
+- Block the Bot on Telegram
+- No account deletion needed (no accounts are created)
+
+================================================================================
+
+7. CHILDREN'S PRIVACY
+
+This Bot is not intended for use by children under 13 years of age. We do not 
+knowingly collect personal information from children under 13. If you are a 
+parent or guardian and believe your child has provided us with personal 
+information, please contact us to have it removed.
+
+================================================================================
+
+8. THIRD-PARTY SERVICES
+
+8.1 Telegram Platform
+- This Bot operates on Telegram's platform
+- Telegram's Privacy Policy also applies to your use
+- We have no control over Telegram's data practices
+
+8.2 Instagram Platform
+- We access Instagram's public API for content retrieval
+- Instagram's Terms of Service and Privacy Policy apply
+- We only access publicly available content
+
+8.3 Hosting Services
+- Our Bot may be hosted on third-party cloud services
+- These providers are bound by confidentiality agreements
+- Data is processed in accordance with this Privacy Policy
+
+================================================================================
+
+9. INTERNATIONAL DATA TRANSFERS
+
+If you are located outside the country where our servers are located, your 
+information may be transferred to and processed in other countries. We ensure 
+appropriate safeguards are in place to protect your information during such 
+transfers.
+
+================================================================================
+
+10. DATA RETENTION
+
+10.1 Temporary Data
+- Downloaded Instagram content: Deleted immediately after sending
+- Processing files: Deleted within 24 hours maximum
+- Temporary cache: Cleared automatically
+
+10.2 Log Data
+- Bot interaction logs: Retained for up to 30 days
+- Error logs: Retained for up to 90 days for debugging
+- Analytics data: Anonymized and retained for service improvement
+
+================================================================================
+
+11. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify users of 
+any material changes by:
+- Updating the "Last Updated" date at the top of this policy
+- Posting announcements in the Bot (if applicable)
+- Continuing to use the Bot after changes constitutes acceptance
+
+================================================================================
+
+12. COMPLIANCE AND LEGAL BASIS
+
+12.1 Legal Basis for Processing (GDPR)
+- Legitimate interest in providing the Bot service
+- Performance of service requested by the user
+- Compliance with legal obligations
+
+12.2 Your GDPR Rights (if applicable)
+- Right to access your personal data
+- Right to rectification of inaccurate data
+- Right to erasure ("right to be forgotten")
+- Right to restrict processing
+- Right to data portability
+- Right to object to processing
+
+================================================================================
+
+13. DISCLAIMER AND LIMITATIONS
+
+13.1 Instagram Content
+- We do not own or claim rights to downloaded Instagram content
+- Users are responsible for respecting copyright and intellectual property
+- Downloaded content should be used in accordance with Instagram's Terms
+- We are not responsible for how users use downloaded content
+
+13.2 Service Availability
+- The Bot is provided "as is" without warranties
+- Service may be interrupted or discontinued at any time
+- We are not liable for service interruptions or data loss
+
+================================================================================
+
+14. CONTACT INFORMATION
+
+If you have questions about this Privacy Policy or our data practices, you can 
+contact us through:
+
+- Telegram: Send a message to the Bot with your inquiry
+- Issues: Report via the project's issue tracker (if available)
+
+For privacy-related requests, please include:
+- Your Telegram username (if comfortable sharing)
+- Nature of your request (access, deletion, etc.)
+- Specific information you're inquiring about
+
+================================================================================
+
+15. ACKNOWLEDGMENT
+
+By using the Instagram Content Downloader Telegram Bot, you acknowledge that:
+
+- You have read and understood this Privacy Policy
+- You consent to the collection and use of information as described
+- You understand the Bot only accesses public Instagram content
+- You are responsible for complying with applicable laws and terms of service
+- You understand that downloaded content is subject to copyright laws
+
+================================================================================
+
+This Privacy Policy is effective as of the date listed above and will remain 
+in effect except with respect to any changes in its provisions in the future, 
+which will be in effect immediately after being posted.
+
+Thank you for using our Instagram Content Downloader Telegram Bot responsibly.
+
+================================================================================

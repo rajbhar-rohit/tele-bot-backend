@@ -1,0 +1,33 @@
+Instagram Content Downloader v1.0
+==================================
+
+Release Date: November 2025
+Author: Rohit Rajbhar
+License: Free for personal use
+
+Features:
+- Download all posts and reels from public Instagram profiles
+- Clean downloads (no JSON metadata files)
+- Easy-to-use batch file interface
+- Command line options for advanced users
+- Standalone executable builder
+- Cross-platform Python support
+
+Requirements:
+- Windows 10/11
+- Python 3.7+ (auto-installed)
+- Internet connection
+
+Files included:
+- DOWNLOAD.bat (main launcher)
+- SETUP.bat (first-time setup)
+- insta_cli.py (CLI program)
+- build_exe.py (executable builder)
+- requirements.txt (dependencies)
+- README.md (full documentation)
+- USER-GUIDE.txt (quick reference)
+
+Support:
+- Check README.md for detailed instructions
+- Ensure profile is public before downloading
+- Respect Instagram's terms of service
